@@ -1,0 +1,47 @@
+Tailored Resume Suggestions
+===========================
+
+Suggested improvements according to job posters:
+- Add or improve resume evidence related to python.
+- Add or improve resume evidence related to pandas.
+- Add or improve resume evidence related to sql.
+- Add or improve resume evidence related to communication.
+- Add or improve resume evidence related to problem solving.
+- Add or improve resume evidence related to git.
+- Add or improve resume evidence related to dashboard.
+- Add or improve resume evidence related to visualization.
+- Add or improve resume evidence related to data.
+- Add or improve resume evidence related to dashboards.
+- Add or improve resume evidence related to nova.
+- Add or improve resume evidence related to analytics.
+- Add or improve resume evidence related to analyst.
+- Add or improve resume evidence related to hybrid.
+- Add or improve resume evidence related to clean.
+- Add or improve resume evidence related to analyze.
+- Add or improve resume evidence related to datasets.
+- Add or improve resume evidence related to sql..
+- Add or improve resume evidence related to build.
+- Add or improve resume evidence related to reports.
+- Add or improve resume evidence related to stakeholders..
+- Add or improve resume evidence related to explain.
+
+Suggested resume bullets:
+- Built Python projects with clear documentation and results.
+- Used Git and GitHub for version control and collaboration.
+- Applied problem solving to complete data and ML tasks.
+
+Skills to improve before applying/interview:
+- visualization
+- dashboards
+- nova
+- analytics
+- analyst
+- hybrid
+- clean
+- analyze
+- datasets
+- sql.
+- build
+- reports
+- stakeholders.
+- explain

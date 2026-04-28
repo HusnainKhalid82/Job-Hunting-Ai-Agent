@@ -1,0 +1,18 @@
+Name: Sample Student
+Summary:
+- CS undergraduate focused on data and AI projects.
+- Comfortable with Python, data analysis, and teamwork.
+
+Skills:
+- Python, pandas, numpy, scikit-learn, SQL
+- Git, GitHub, Jupyter
+- HTML, CSS, basic Flask
+- Communication, problem solving
+
+Projects:
+- Churn Prediction: built a model using scikit-learn and evaluated with accuracy and F1.
+- Sales Dashboard: cleaned CSV data and built summary charts in Python.
+- Text Classifier: experimented with TF-IDF features and logistic regression.
+
+Education:
+- BS Computer Science (2023 - 2027)

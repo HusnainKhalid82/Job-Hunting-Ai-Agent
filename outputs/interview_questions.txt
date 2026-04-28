@@ -1,0 +1,67 @@
+Interview Questions
+===================
+
+Technical questions based on job posters:
+- Explain your understanding of python.
+- How have you used python in a project or course activity?
+- Explain your understanding of pandas.
+- How have you used pandas in a project or course activity?
+- Explain your understanding of sql.
+- How have you used sql in a project or course activity?
+- Explain your understanding of communication.
+- How have you used communication in a project or course activity?
+- Explain your understanding of problem solving.
+- How have you used problem solving in a project or course activity?
+- Explain your understanding of git.
+- How have you used git in a project or course activity?
+- Explain your understanding of dashboard.
+- How have you used dashboard in a project or course activity?
+- Explain your understanding of visualization.
+- How have you used visualization in a project or course activity?
+- Explain your understanding of data.
+- How have you used data in a project or course activity?
+- Explain your understanding of dashboards.
+- How have you used dashboards in a project or course activity?
+- Explain your understanding of nova.
+- How have you used nova in a project or course activity?
+- Explain your understanding of analytics.
+- How have you used analytics in a project or course activity?
+- Explain your understanding of analyst.
+- How have you used analyst in a project or course activity?
+- Explain your understanding of hybrid.
+- How have you used hybrid in a project or course activity?
+- Explain your understanding of clean.
+- How have you used clean in a project or course activity?
+- Explain your understanding of analyze.
+- How have you used analyze in a project or course activity?
+- Explain your understanding of datasets.
+- How have you used datasets in a project or course activity?
+- Explain your understanding of sql..
+- How have you used sql. in a project or course activity?
+- Explain your understanding of build.
+- How have you used build in a project or course activity?
+- Explain your understanding of reports.
+- How have you used reports in a project or course activity?
+- Explain your understanding of stakeholders..
+- How have you used stakeholders. in a project or course activity?
+- Explain your understanding of explain.
+- How have you used explain in a project or course activity?
+
+HR and behavioral questions:
+- Tell me about yourself.
+- Why are you interested in this role?
+- Describe your best academic or project work.
+- What are your strengths and weaknesses?
+- Why should we select you?
+
+Questions inspired by KB/slides:
+- How would you explain this point in an interview: FILE: interview_preparation_notes.txt?
+- How would you explain this point in an interview: Machine learning pipeline: data collection, preprocessing, training, evaluation, deployment.?
+- How would you explain this point in an interview: Common metrics: accuracy, precision, recall, F1.?
+- How would you explain this point in an interview: Feature engineering improves model performance.?
+- How would you explain this point in an interview: SQL joins and group-by are common in analytics roles.?
+- How would you explain this point in an interview: REST APIs connect models to applications.?
+- How would you explain this point in an interview: Always validate data quality before modeling.?
+- How would you explain this point in an interview: FILE: job_fair_slides_notes.txt?
+- How would you explain this point in an interview: Practice a short, confident introduction (30-60 seconds).?
+- How would you explain this point in an interview: Explain one strong project using the STAR method.?

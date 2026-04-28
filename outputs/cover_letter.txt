@@ -1,0 +1,12 @@
+Cover Letter Draft
+===================
+
+Dear Nova Analytics Team,
+
+I am excited to apply for Data Analyst Intern. My background in Python, data analysis, and project work aligns well with the responsibilities described in the job poster. I enjoy building practical solutions, documenting results, and collaborating with teams.
+
+Highlights from my resume include hands-on projects, version control with Git, and experience presenting findings clearly. I am eager to contribute and learn.
+
+Thank you for your time and consideration.
+Sincerely,
+Sample Student

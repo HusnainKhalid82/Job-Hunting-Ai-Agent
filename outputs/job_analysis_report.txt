@@ -1,0 +1,39 @@
+Job Analysis Report
+===================
+
+Company: Nova Analytics
+Role: Data Analyst Intern
+
+Skills/keywords found in job posters:
+- python
+- pandas
+- sql
+- communication
+- problem solving
+- git
+- dashboard
+- visualization
+- data
+- dashboards
+- nova
+- analytics
+- analyst
+- hybrid
+- clean
+- analyze
+- datasets
+- sql.
+- build
+- reports
+- stakeholders.
+- explain
+
+Top terms from job text:
+- dashboards
+- data
+- python
+- analyst
+- analytics
+- analyze
+- basics
+- build

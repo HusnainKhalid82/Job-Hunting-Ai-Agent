@@ -1,0 +1,3 @@
+application_id,company,role,source,status,applied_date,interview_date,follow_up_date,next_action,notes
+APP-001,Orion Labs,Junior AI Engineer Intern,Job Poster,Interview Scheduled,2026-04-28,2026-05-03,2026-05-06,Revise Python and ML basics,Resume tailored for AI role
+APP-002,Nova Analytics,Data Analyst Intern,Job Poster,Applied,2026-04-25,,2026-04-30,Follow up if no response,Submitted resume and portfolio

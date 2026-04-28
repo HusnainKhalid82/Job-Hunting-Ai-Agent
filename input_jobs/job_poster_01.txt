@@ -1,0 +1,17 @@
+Company: Orion Labs
+Role: Junior AI Engineer Intern
+Location: Remote
+
+Responsibilities:
+- Build Python scripts for data preprocessing and feature engineering.
+- Train and evaluate machine learning models.
+- Build REST APIs for model inference using Flask.
+- Collaborate using Git and GitHub.
+- Communicate findings and document experiments.
+
+Requirements:
+- Python, pandas, numpy, scikit-learn
+- SQL basics
+- Understanding of machine learning pipelines
+- Problem solving and communication
+- Exposure to NLP is a plus

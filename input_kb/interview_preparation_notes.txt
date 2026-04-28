@@ -1,0 +1,6 @@
+- Machine learning pipeline: data collection, preprocessing, training, evaluation, deployment.
+- Common metrics: accuracy, precision, recall, F1.
+- Feature engineering improves model performance.
+- SQL joins and group-by are common in analytics roles.
+- REST APIs connect models to applications.
+- Always validate data quality before modeling.

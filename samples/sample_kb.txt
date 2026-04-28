@@ -1,0 +1,3 @@
+- STAR method for behavioral interviews.
+- Prepare to explain project impact and metrics.
+- Review ML basics and evaluation metrics.

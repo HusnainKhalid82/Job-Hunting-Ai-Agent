@@ -1,0 +1,14 @@
+Company: Nova Analytics
+Role: Data Analyst Intern
+Location: Hybrid
+
+Responsibilities:
+- Clean and analyze datasets using Python and SQL.
+- Build dashboards and reports for stakeholders.
+- Explain insights clearly to non-technical teams.
+
+Requirements:
+- Python, pandas, SQL
+- Data visualization basics (charts, dashboards)
+- Communication and problem solving
+- Git or version control familiarity

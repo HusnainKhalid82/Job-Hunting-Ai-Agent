@@ -1,0 +1,20 @@
+Preparation Plan
+================
+
+Focus areas based on missing skills:
+- Review and practice: visualization
+- Review and practice: dashboards
+- Review and practice: nova
+- Review and practice: analytics
+- Review and practice: analyst
+
+Quick KB reminders:
+- FILE: interview_preparation_notes.txt
+- Machine learning pipeline: data collection, preprocessing, training, evaluation, deployment.
+- Common metrics: accuracy, precision, recall, F1.
+- Feature engineering improves model performance.
+- SQL joins and group-by are common in analytics roles.
+
+Next actions from tracker:
+- Revise Python and ML basics
+- Follow up if no response

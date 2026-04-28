@@ -1,0 +1,10 @@
+Company: Sample Tech
+Role: AI Intern
+Responsibilities:
+- Build ML models in Python.
+- Create data preprocessing pipelines.
+- Document experiments and present findings.
+
+Requirements:
+- Python, pandas, numpy
+- Communication, problem solving

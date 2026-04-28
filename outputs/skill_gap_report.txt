@@ -1,0 +1,57 @@
+Skill Gap Report
+================
+
+Match Score: 36.36%
+
+Matched Skills:
+- python
+- pandas
+- sql
+- communication
+- problem solving
+- git
+- dashboard
+- data
+
+Missing Skills:
+- visualization
+- dashboards
+- nova
+- analytics
+- analyst
+- hybrid
+- clean
+- analyze
+- datasets
+- sql.
+- build
+- reports
+- stakeholders.
+- explain
+
+Resume Keywords Found:
+- python
+- pandas
+- numpy
+- scikit-learn
+- sql
+- communication
+- problem solving
+- git
+- github
+- flask
+- dashboard
+- jupyter
+- data
+- summary
+- built
+- name
+- sample
+- student
+- cs
+- undergraduate
+- focused
+- ai
+- projects.
+- comfortable
+- analysis

@@ -1,0 +1,8 @@
+Name: Sample Candidate
+Skills:
+- Python, pandas, numpy, SQL
+- Git, GitHub
+- Communication, problem solving
+
+Projects:
+- Built a simple ML model for classification.

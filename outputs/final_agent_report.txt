@@ -1,0 +1,254 @@
+CareerPrep Job-Hunting Agent Report
+Generated on: 2026-04-28T13:23:56
+Selected Job File: job_poster_02.txt
+Selected Resume File: my_resume.txt
+====================================
+
+Job Analysis Report
+===================
+
+Company: Nova Analytics
+Role: Data Analyst Intern
+
+Skills/keywords found in job posters:
+- python
+- pandas
+- sql
+- communication
+- problem solving
+- git
+- dashboard
+- visualization
+- data
+- dashboards
+- nova
+- analytics
+- analyst
+- hybrid
+- clean
+- analyze
+- datasets
+- sql.
+- build
+- reports
+- stakeholders.
+- explain
+
+Top terms from job text:
+- dashboards
+- data
+- python
+- analyst
+- analytics
+- analyze
+- basics
+- build
+
+Skill Gap Report
+================
+
+Match Score: 36.36%
+
+Matched Skills:
+- python
+- pandas
+- sql
+- communication
+- problem solving
+- git
+- dashboard
+- data
+
+Missing Skills:
+- visualization
+- dashboards
+- nova
+- analytics
+- analyst
+- hybrid
+- clean
+- analyze
+- datasets
+- sql.
+- build
+- reports
+- stakeholders.
+- explain
+
+Resume Keywords Found:
+- python
+- pandas
+- numpy
+- scikit-learn
+- sql
+- communication
+- problem solving
+- git
+- github
+- flask
+- dashboard
+- jupyter
+- data
+- summary
+- built
+- name
+- sample
+- student
+- cs
+- undergraduate
+- focused
+- ai
+- projects.
+- comfortable
+- analysis
+
+Tailored Resume Suggestions
+===========================
+
+Suggested improvements according to job posters:
+- Add or improve resume evidence related to python.
+- Add or improve resume evidence related to pandas.
+- Add or improve resume evidence related to sql.
+- Add or improve resume evidence related to communication.
+- Add or improve resume evidence related to problem solving.
+- Add or improve resume evidence related to git.
+- Add or improve resume evidence related to dashboard.
+- Add or improve resume evidence related to visualization.
+- Add or improve resume evidence related to data.
+- Add or improve resume evidence related to dashboards.
+- Add or improve resume evidence related to nova.
+- Add or improve resume evidence related to analytics.
+- Add or improve resume evidence related to analyst.
+- Add or improve resume evidence related to hybrid.
+- Add or improve resume evidence related to clean.
+- Add or improve resume evidence related to analyze.
+- Add or improve resume evidence related to datasets.
+- Add or improve resume evidence related to sql..
+- Add or improve resume evidence related to build.
+- Add or improve resume evidence related to reports.
+- Add or improve resume evidence related to stakeholders..
+- Add or improve resume evidence related to explain.
+
+Suggested resume bullets:
+- Built Python projects with clear documentation and results.
+- Used Git and GitHub for version control and collaboration.
+- Applied problem solving to complete data and ML tasks.
+
+Skills to improve before applying/interview:
+- visualization
+- dashboards
+- nova
+- analytics
+- analyst
+- hybrid
+- clean
+- analyze
+- datasets
+- sql.
+- build
+- reports
+- stakeholders.
+- explain
+
+Interview Questions
+===================
+
+Technical questions based on job posters:
+- Explain your understanding of python.
+- How have you used python in a project or course activity?
+- Explain your understanding of pandas.
+- How have you used pandas in a project or course activity?
+- Explain your understanding of sql.
+- How have you used sql in a project or course activity?
+- Explain your understanding of communication.
+- How have you used communication in a project or course activity?
+- Explain your understanding of problem solving.
+- How have you used problem solving in a project or course activity?
+- Explain your understanding of git.
+- How have you used git in a project or course activity?
+- Explain your understanding of dashboard.
+- How have you used dashboard in a project or course activity?
+- Explain your understanding of visualization.
+- How have you used visualization in a project or course activity?
+- Explain your understanding of data.
+- How have you used data in a project or course activity?
+- Explain your understanding of dashboards.
+- How have you used dashboards in a project or course activity?
+- Explain your understanding of nova.
+- How have you used nova in a project or course activity?
+- Explain your understanding of analytics.
+- How have you used analytics in a project or course activity?
+- Explain your understanding of analyst.
+- How have you used analyst in a project or course activity?
+- Explain your understanding of hybrid.
+- How have you used hybrid in a project or course activity?
+- Explain your understanding of clean.
+- How have you used clean in a project or course activity?
+- Explain your understanding of analyze.
+- How have you used analyze in a project or course activity?
+- Explain your understanding of datasets.
+- How have you used datasets in a project or course activity?
+- Explain your understanding of sql..
+- How have you used sql. in a project or course activity?
+- Explain your understanding of build.
+- How have you used build in a project or course activity?
+- Explain your understanding of reports.
+- How have you used reports in a project or course activity?
+- Explain your understanding of stakeholders..
+- How have you used stakeholders. in a project or course activity?
+- Explain your understanding of explain.
+- How have you used explain in a project or course activity?
+
+HR and behavioral questions:
+- Tell me about yourself.
+- Why are you interested in this role?
+- Describe your best academic or project work.
+- What are your strengths and weaknesses?
+- Why should we select you?
+
+Questions inspired by KB/slides:
+- How would you explain this point in an interview: FILE: interview_preparation_notes.txt?
+- How would you explain this point in an interview: Machine learning pipeline: data collection, preprocessing, training, evaluation, deployment.?
+- How would you explain this point in an interview: Common metrics: accuracy, precision, recall, F1.?
+- How would you explain this point in an interview: Feature engineering improves model performance.?
+- How would you explain this point in an interview: SQL joins and group-by are common in analytics roles.?
+- How would you explain this point in an interview: REST APIs connect models to applications.?
+- How would you explain this point in an interview: Always validate data quality before modeling.?
+- How would you explain this point in an interview: FILE: job_fair_slides_notes.txt?
+- How would you explain this point in an interview: Practice a short, confident introduction (30-60 seconds).?
+- How would you explain this point in an interview: Explain one strong project using the STAR method.?
+
+Preparation Plan
+================
+
+Focus areas based on missing skills:
+- Review and practice: visualization
+- Review and practice: dashboards
+- Review and practice: nova
+- Review and practice: analytics
+- Review and practice: analyst
+
+Quick KB reminders:
+- FILE: interview_preparation_notes.txt
+- Machine learning pipeline: data collection, preprocessing, training, evaluation, deployment.
+- Common metrics: accuracy, precision, recall, F1.
+- Feature engineering improves model performance.
+- SQL joins and group-by are common in analytics roles.
+
+Next actions from tracker:
+- Revise Python and ML basics
+- Follow up if no response
+
+Application Status Dashboard
+============================
+
+- Applied: 1
+- Interview Scheduled: 1
+
+Application Reminders
+=====================
+
+- APP-001: Interview scheduled for Junior AI Engineer Intern at Orion Labs on 2026-05-03. [THIS WEEK] Next action: Revise Python and ML basics
+- APP-001: Follow up on 2026-05-06 for Junior AI Engineer Intern at Orion Labs. [UPCOMING]
+- APP-002: Follow up on 2026-04-30 for Data Analyst Intern at Nova Analytics. [THIS WEEK]
+

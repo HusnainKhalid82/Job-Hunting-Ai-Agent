@@ -1,0 +1,6 @@
+Application Reminders
+=====================
+
+- APP-001: Interview scheduled for Junior AI Engineer Intern at Orion Labs on 2026-05-03. [THIS WEEK] Next action: Revise Python and ML basics
+- APP-001: Follow up on 2026-05-06 for Junior AI Engineer Intern at Orion Labs. [UPCOMING]
+- APP-002: Follow up on 2026-04-30 for Data Analyst Intern at Nova Analytics. [THIS WEEK]
